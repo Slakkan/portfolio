@@ -1,8 +1,8 @@
 import type { NextPage } from "next";
 
-const Home: NextPage = () => {
+const AboutMe: NextPage = () => {
 
     return <></>;
 };
 
-export default Home;
+export default AboutMe;
